@@ -1,2 +1,3 @@
 # Game_Theory_Project
-Server Assignment Optimization via Stable Matching and Greedy Algorithms
+## Server Assignment Optimization via Stable Matching and Greedy Algorithms
+This project investigates optimal assignment of users to servers in a two-dimensional envi- ronment using both the Many-to-One Stable Matching algorithm and a Greedy approach. Simulations are conducted under synchronous (slotted) and asynchronous models, with both exponential and uniform distributions of task complexity. The impact of various task gener- ation rates (λ) and slot durations (L) is explored. Metrics such as average task completion time and task count per time unit are analyzed and compared.
